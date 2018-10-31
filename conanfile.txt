@@ -2,4 +2,4 @@
 fmt/5.2.1@bincrafters/stable
 
 [generators]
-cmake
+cmake_paths
